@@ -1,7 +1,4 @@
-### Sejam bem vindo! Meu nome é Igor Sousa  👋
-
-- 🔭 I’m currently working on ...
-
+### Sejam todos bem-vindos ao meu Perfil! 😄
 
 <div>
   <a href="https://github.com/IgorSousaa">
