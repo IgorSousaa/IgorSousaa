@@ -1,4 +1,4 @@
-### Sejam todos bem-vindos ao meu Perfil! 😄
+### Sejam todos bem-vindos ao meu Perfil! 
 
 <div>
   <a href="https://github.com/IgorSousaa">
